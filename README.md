@@ -22,11 +22,11 @@ This will create the packaged jar in target directory. (Please note: I have only
 
 To run the solution
 
-java -jar target/grouping-0.0.1-SNAPSHOT.jar <Input CSV file path> <Output CSV file path> <Matching mode>
+java -jar target/Grouping-1.0-SNAPSHOT.jar <Input CSV file path> <Output CSV file path> <Matching mode>
 
 	Where <Matching mode> can be either MatchEmail OR MatchPhone OR Both
 
 
 Example
-  java -jar target/grouping-0.0.1-SNAPSHOT.jar ./input1.csv ./output1.csv Both
+  java -jar target/Grouping-1.0-SNAPSHOT.jar ./input1.csv ./output1.csv Both
 
