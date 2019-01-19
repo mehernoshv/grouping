@@ -22,7 +22,7 @@ This will create the packaged jar in target directory. (Please note: I have only
 
 To run the solution
 
-java -jar target/Grouping-1.0-SNAPSHOT.jar <Input CSV file path> <Output CSV file path> <Matching mode>
+java -jar target/Grouping-1.0-SNAPSHOT-jar-with-dependencies.jar <Input CSV file path> <Output CSV file path> <Matching mode>
 
 	Where <Matching mode> can be either MatchEmail OR MatchPhone OR Both
 
