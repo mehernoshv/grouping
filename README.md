@@ -30,3 +30,4 @@ java -jar target/Grouping-1.0-SNAPSHOT-jar-with-dependencies.jar <Input CSV file
 Example
   java -jar target/Grouping-1.0-SNAPSHOT-jar-with-dependencies.jar ./input1.csv ./output1.csv Both
 
+Please note the multiple test csv files are available in the src/main/resources
