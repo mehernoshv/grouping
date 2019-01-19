@@ -28,5 +28,5 @@ java -jar target/Grouping-1.0-SNAPSHOT-jar-with-dependencies.jar <Input CSV file
 
 
 Example
-  java -jar target/Grouping-1.0-SNAPSHOT.jar ./input1.csv ./output1.csv Both
+  java -jar target/Grouping-1.0-SNAPSHOT-jar-with-dependencies.jar ./input1.csv ./output1.csv Both
 
